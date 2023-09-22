@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: <a>*</a> denotes equal contribution. For an updated publication list visit my <a href='https://sert23.github.io/publications/'>Google Scholar </a>.
+description: <a>*</a> denotes equal contribution. For an updated publication list visit my <a href='https://scholar.google.com/citations?user=yXTYTAgAAAAJ'>Google Scholar </a>.
 nav: true
 nav_order: 1
 ---
