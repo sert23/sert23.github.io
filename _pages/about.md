@@ -28,7 +28,7 @@ As part of my work at <a href='https://www.ccb.uni-saarland.de/'>Chair for Clini
 processing and editing.
 
 Previously, I completed my PhD at University of Granada, where I was advised by Michael Hackenberg and worked on 
-miRNA-seq analysis tools for quantification and quality control, supported by the iPFIS Fellowship. I also visited other 
+miRNA-seq analysis tools for quantification and quality control, supported by an iPFIS fellowship. I also visited other 
 labs at the Cancer Center Amsterdam and University of Michigan, the latter thanks to a Fulbright PhD Scholarship.
 
 In my spare time, I try to play as much tennis as I can. I also enjoy travelling, learning new languages and spending
