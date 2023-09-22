@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b> Postdoc </b> @ <a href='https://www.ccb.uni-saarland.de/'>Chair for Clinical Bioinformatics</a>. 
 
 profile:
   align: right
