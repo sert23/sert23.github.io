@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ernesto Aparicio Puerta",
-    "position": "Postdoc researcher",
+    "position": "Postdoc Researcher",
     "image": "prof_pic.jpg",
     "email": "eaparicioeaparicio@gmail.com",
     "url": "https://sert23.github.io/",
@@ -11,9 +11,10 @@
   "work": [
     {
       "name": "Chair for Clinical Bioinformatics",
-      "position": "Postdoc researcher",
+      "position": " Postdoc",
       "url": "https://www.ccb.uni-saarland.de/dr-ernesto-aparicio-puerta/",
       "startDate": "2022-03-01",
+      "endDate": "2023-12-31",
       "summary": "Working on several topics related to miRNA (isoform quantification, enrichment analysis)",
       "highlights": [
         "isomiRdb"
@@ -48,7 +49,7 @@
       "endDate": "2014-07-15"
     }
   ],
-  "awards": [
+  "funding": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -66,10 +67,6 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "French",
       "fluency": "Fluent"
     }
   ],
