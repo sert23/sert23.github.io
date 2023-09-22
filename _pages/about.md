@@ -23,8 +23,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am broadly interested on the analysis of small RNAs through sequencing, particularly miRNAs but also tRNAs and tRNA fragments.
-As part of my work at <a href='https://www.ccb.uni-saarland.de/'>Chair for Clinical Bioinformatics</a>, I have focused on cataloguing all [human
-isomiRs]{https://ccb-compute.cs.uni-saarland.de/isomirdb/}, miRNA variants that can arise through post-transcriptional 
+As part of my work at <a href='https://www.ccb.uni-saarland.de/'>Chair for Clinical Bioinformatics</a>, I have focused on cataloguing all 
+<a href='https://ccb-compute.cs.uni-saarland.de/isomirdb/'>human isomiRs</a>, miRNA variants that can arise through post-transcriptional 
 processing and editing.
 
 Previously, I completed my PhD at University of Granada, where I was advised by Michael Hackenberg and worked on 
