@@ -5,7 +5,7 @@
     "image": "prof_pic.jpg",
     "email": "eaparicioeaparicio@gmail.com",
     "url": "https://sert23.github.io/",
-    "summary": "I'm a second year postdoc researcher interested in the analysis of miRNA through sequencing technologies."
+    "summary": "I'm a Bioinformatics researcher interested in the analysis of miRNA and other small RNAs through sequencing technologies."
 
   },
   "work": [
@@ -14,11 +14,7 @@
       "position": " Postdoc",
       "url": "https://www.ccb.uni-saarland.de/dr-ernesto-aparicio-puerta/",
       "startDate": "2022-03-01",
-      "endDate": "2023-12-31",
-      "summary": "Working on several topics related to miRNA (isoform quantification, enrichment analysis)",
-      "highlights": [
-        "isomiRdb"
-      ]
+      "endDate": "2023-12-31"
     }
   ],
   "volunteer": [],
@@ -27,7 +23,7 @@
       "institution": "University of Granada, Granada, Spain",
       "url": "https://www.ugr.es/",
       "area": "Bioinformatics",
-      "studyType": "PhD",
+      "studyType": " PhD",
       "startDate": "2016-10-15",
       "endDate": "2022-01-31",
       "score": "Cum laude"
@@ -36,7 +32,7 @@
       "institution": "University of Copenhagen, Copenhagen, Denmark",
       "url": "https://www.ku.dk/",
       "area": "Bioinformatics",
-      "studyType": "MSc",
+      "studyType": " MSc",
       "startDate": "2014-09-01",
       "endDate": "2016-09-09"
     },
@@ -44,7 +40,7 @@
       "institution": "University of Granada, Granada, Spain",
       "url": "https://www.ugr.es/",
       "area": "Biochemistry",
-      "studyType": "BSc",
+      "studyType": " BSc",
       "startDate": "2010-09-01",
       "endDate": "2014-07-15"
     }
